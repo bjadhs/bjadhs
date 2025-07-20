@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am full-stack software developer proficient in React, NodeJS, AWS and many other related technologies.
+I am Full-Stack software developer proficient at React, NextJS, NodeJS, AWS, Devops Basics and many other related technologies.
 
 * 🌍  I'm based in Australia and originally from Nepal
 * 🖥️  See my portfolio at [bjadhs.github.io](http://bjadhs.github.io)
 * ✉️  You can contact me at [bijayadhikari107@gmail.com](mailto:bijayadhikari107@gmail.com)
-* 🚀  I'm currently working on [Coles Merchandising](http://cglrs.com.au/)
-* 🧠  I'm learning AWS, NodeJS, React, NextJS
+* 🚀  I'm currently working at [Coles Merchandising](http://cglrs.com.au/)
+* 🧠  I'm learning AI, AWS, Devops, NodeJS, React, NextJS
 
 ### Skills
 
